@@ -62,6 +62,4 @@
 ```text
 pudding-linux-tools/
 ├── README.md          # 项目说明文档 (就是你现在看到的文件)
-├── LICENSE            # 开源许可证文件
 ├── pudding-linux-tools_1_0.c  # 核心源代码文件 (C语言)
-└── Makefile           # (可选) 编译脚本，简化编译过程
